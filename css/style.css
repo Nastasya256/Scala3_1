@@ -1,0 +1,252 @@
+body {
+     background: url('https://cf-static.clouty.ru/8b6612639d744f4eb18fc1f8f43626a62b19e417f4a84f4db5707b039ca09c93');
+background-repeat: no-repeat;
+
+      --moz-background-size:100%;
+      -webkit-background-size:100%;
+      -o-background-size:100%;
+      background-size:100%;
+  font-family: 'Inter', sans-serif;
+color: #FFF;
+}
+
+
+
+.container {
+    max-width: 1680px;
+  margin: 0 auto;
+}
+.logo {
+  position: absolute;
+  left: 45px;
+  top: 45px;
+  width: 228px;
+  height: 51px;
+}
+
+.bg-light {
+    background-color: transparent !important;
+  }
+
+#navbarSupportedContent li a{
+  text-transform: uppercase;
+  color: #FFF;
+  font-size: 15px;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+}
+
+button {
+     display: block;
+
+}
+
+.btn {
+  background: #E54613;
+  color: #FFF;
+  white-space: nowrap;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px 30px;
+  display: inline;
+  border: none;
+  border-radius: 100px;
+  }
+
+
+.mainscreen {
+margin-top: 180px;
+}
+.mainscreen-cont a {
+    text-shadow: #ffffff 0 0 10px;
+    color: #FFFFFF;
+}
+.mainscreen-cont__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 86px;
+  font-weight: 900;
+  color: #FFFFFF;
+}
+
+.mainscreen_cont__text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+    color: #FFFFFF;
+
+}
+.download {
+  background-color:transparent;
+  	border-radius:28px;
+  	border:2px solid #ffffff;
+    box-shadow: #ffffff 0 0 10px;
+  	display:inline-block;
+  	cursor:pointer;
+    text-shadow: #ffffff 0 0 10px;
+  	color:#ffffff;
+  	font-size:18px;
+  	font-weight:bold;
+  	padding:9px 41px;
+  	text-decoration: none;
+  }
+
+
+.download:hover {
+  background-color: #59FFFF;
+}
+
+
+.whyscala {
+  padding-top: 250px;
+}
+
+.whyscala h2 {
+  font-size: 54px;
+  color: #FFFFFF;
+}
+
+.whyscala p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  color: #FFFFFF;
+}
+
+.powered {
+  background: url('https://cf-static.clouty.ru/32b8a3984fa54f3c97fa4ac3a152bd7483ce4596a38a41dbbaddab129ed87a83') center center;
+  height: 800px;
+  width: 100%;
+  z-index: 999;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+.powered-cont {
+  padding-top: 200px;
+}
+
+.powered-cont__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-size: 64px;
+  font-weight: 900;
+  color: #FFFFFF;
+  white-space: nowrap;
+}
+
+.powered_cont__text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.slider {
+  padding-top: 200px;
+}
+
+.cases {
+background-color: #0b121e;
+  opacity: 1;
+  z-index: 999;
+}
+
+.card-body {
+  background-color: #E93F1B;
+  border: none !important;
+}
+
+.card {
+  border: none !important;
+
+}
+
+.card-title {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.card-text {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+
+}
+
+.features {
+  padding-top: 100px;
+  background-color: #0b121e;
+    opacity: 1;
+    z-index: 999;
+}
+
+
+.big-grid h2 {
+  color: #E93F1B;
+  font-size: 26px;
+  font-weight: 100;
+
+}
+
+.big-grid p {
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.explore {
+  padding-top: 50px;
+  text-align: center;
+  background: url('https://cf-static.clouty.ru/69caf36c1ca84a379b1e1e0e230e94f16965a3fa064d47a589b3eec39b42b1fc');
+  background-color: #0b121e;
+}
+
+.explore-cont__title {
+    font-family: Roboto, sans-serif;
+  font-size: 22px;
+  font-weight: 300;
+
+}
+.explore-cont__text {
+    font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.explore-cont__link {
+  color: #E93F1B;
+
+}
+
+
+.thanks {
+  padding-top: 50px;
+  text-align: left;
+  background-color: #0b121e;
+
+}
+
+.ziverge {
+  width: 200px;
+  height: 38px;
+}
+.irtus {
+  width: 175px;
+  height: 68px;
+}
+
+.epfl {
+  width: 131px;
+  height: 38px;
+}
+.scalacenter {
+  width: 231px;
+  height: 50px;
+}
+
+.banner {
+  padding-bottom: 100px;
+}
